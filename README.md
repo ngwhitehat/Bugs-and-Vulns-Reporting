@@ -1,4 +1,4 @@
-# Bugs and Vulns Reporting
+# Bugs and Vulns Reporting 🟩⬜🟩
 🐞Bug and vulnerability reporting is the process of identifying and reporting any issues or security vulnerabilities found in software or system. This repo helps track this within our Cyber Ecosystem in Nigeria
 
 This is usually done by users or security researchers who have discovered a problem that could potentially harm the system or its users.
