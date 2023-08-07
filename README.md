@@ -46,4 +46,4 @@ Web: www.cerrt.ng
 
 # VDP List
 ## With your VDP ready, you will get a space here.
-We encourage organizations with Vulnerability Disclosure Policy to reach out to Whitehat Nigeria so we can list them here to foster a single platform for all VDPs in the country. If you don’t have you can reach out so we develop one for you.
+We encourage organizations with Vulnerability Disclosure Policy to reach out to Whitehat.NG so we can list them here to foster a single platform for all VDPs in the country. If you don’t have you can take a cue from the [sample](https://github.com/ngwhitehat/Bugs-and-Vulns-Reporting/blob/main/sample-vdp.md) or the one on our [LinkedIn]().
