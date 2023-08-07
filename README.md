@@ -18,7 +18,7 @@ A vulnerability disclosure policy (VDP) is a set of guidelines and procedures th
 1. A well-written VDP can encourage security researchers and users to report vulnerabilities they find, while also providing clear guidance to the organization on how to handle such reports.
 2. A VDP can help an organization identify and fix security issues before they can be exploited by attackers, and can also help to build trust with users and customers by demonstrating a commitment to security.
 
-sample VDP can be see [here]()
+see sample VDP [here](https://github.com/ngwhitehat/Bugs-and-Vulns-Reporting/blob/main/sample-vdp.md)
 
 # Disclaimer 
 Whitehat.NG is a project pushing for Responsible Disclosure In Nigeria + Nigeria Cyberspace - ISAC + peopleCERT Nigeria. Whitehat.NG does not condone or encourage any illegal or unethical activities related to bug and vulnerability reporting. Whitehat.NG only supports private and responsible disclosure of security issues, in accordance with the applicable laws and regulations, and the best practices of the cybersecurity community. Whitehat.NG is not liable for any damages or losses caused by the actions or omissions of any bug or vulnerability reporters or affected parties.
