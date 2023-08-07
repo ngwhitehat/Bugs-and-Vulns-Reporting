@@ -23,7 +23,7 @@ see sample VDP [here](https://github.com/ngwhitehat/Bugs-and-Vulns-Reporting/blo
 # Disclaimer 
 Whitehat.NG is a project pushing for Responsible Disclosure In Nigeria + Nigeria Cyberspace - ISAC + peopleCERT Nigeria. Whitehat.NG does not condone or encourage any illegal or unethical activities related to bug and vulnerability reporting. Whitehat.NG only supports private and responsible disclosure of security issues, by the applicable laws and regulations, and the best practices of the cybersecurity community. Whitehat.NG is not liable for any damages or losses caused by the actions or omissions of any bug or vulnerability reporters or affected parties.
 
-# Report NOW
+# [Report](https://docs.google.com/forms/d/e/1FAIpQLSdKQUuPPylNiyhjziqfk6boNJx-efO3ukARqkrxgEC_h2MwMA/viewform) NOW
 
 You can use our [form](https://docs.google.com/forms/d/e/1FAIpQLSdKQUuPPylNiyhjziqfk6boNJx-efO3ukARqkrxgEC_h2MwMA/viewform) here to make your first report.
 Thank you for keeping Nigeria's Cyberspace a safer place.
