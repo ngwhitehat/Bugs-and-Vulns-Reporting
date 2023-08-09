@@ -1,3 +1,4 @@
+![ngwhitehat-banner](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/ngwhitehat-banner.png)
 # Bugs and Vulns Reporting 🟩⬜🟩
 Bug🐞 and vulnerability reporting is the process of identifying and reporting any issues or security vulnerabilities found in software or system. This repo helps track this within our Cyber Ecosystem in Nigeria
 
