@@ -3,7 +3,7 @@ We maintain a Security Researcher Hall of Fame to thank individuals who have dis
 
 # ``2023 ``
 ```diff 
-+ text in green
++ Coy Emerald
 ```
 # ``2022 ``
 # ``2021 ``
