@@ -6,6 +6,7 @@ We maintain a Security Researcher Hall of Fame to thank individuals who have dis
 ### ✅ Coy Emerald  ✅ Kure Abdullahi
 
 # ``2022 ``
+### ✅ Emmanuel Akobe-Ajibolu
 # ``2021 ``
 # ``2021 ``
 # ``2019 ``
