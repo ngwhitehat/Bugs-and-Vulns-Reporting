@@ -9,4 +9,4 @@ We maintain a Security Researcher Hall of Fame to thank individuals who have dis
 # ``2021 ``
 # ``2021 ``
 # ``2019 ``
-
+### ✅ Awwal Ishiaku ✅ Lateef Hamzah
