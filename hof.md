@@ -3,7 +3,7 @@ We maintain a Security Researcher Hall of Fame to thank individuals who have dis
 
 # ``2023 ``
 
-### ✅ Coy Emerald  ✅ Kure Abdullahi
+### ✅ Coy Emerald  ✅ Kure Abdullahi ✅ Ibrahim F.
 
 # ``2022 ``
 ### ✅ Emmanuel Akobe-Ajibolu
