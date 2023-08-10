@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/ngwhitehat/Lessons-From-Disclosures/main/res/ngwhitehat-banner-hof.png)
 # Security Researcher Hall of Fame
 We maintain a Security Researcher Hall of Fame to thank individuals who have discovered medium or high vulnerabilities and worked with us to resolve them.
 
