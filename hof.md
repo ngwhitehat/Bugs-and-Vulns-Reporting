@@ -4,7 +4,7 @@ We maintain a Security Researcher Hall of Fame to thank individuals who have dis
 
 # ``2023 ``
 
-### ✅ Coy Emerald  ✅ Kure Abdullahi ✅ Ibrahim F. ✅Lateef Hamzah ✅Jamiu Olarewaju
+### ✅ Coy Emerald  ✅ Kure Abdullahi ✅ Ibrahim F. ✅Lateef Hamzah ✅Jamiu Olarewaju ✅mrgaphy
 
 # ``2022 ``
 ### ✅ Emmanuel Akobe-Ajibolu
