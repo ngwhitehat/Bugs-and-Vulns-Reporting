@@ -49,4 +49,4 @@ Web: www.cerrt.ng
 
 # VDP List
 ## With your VDP ready, you will get a space here.
-We encourage organizations with Vulnerability Disclosure Policy to reach out to Whitehat.NG so we can list them here to foster a single platform for all VDPs in the country. If you don’t have you can take a cue from the [sample](https://github.com/ngwhitehat/Bugs-and-Vulns-Reporting/blob/main/sample-vdp.md) or the one on our [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6958439433029193728/). Check for a proposed standard which allows websites to define security policies [securitytxt.org](https://securitytxt.org/) 
+We encourage organizations with Vulnerability Disclosure Policy to reach out to Whitehat.NG so we can list them here to foster a single platform for all VDPs in the country. If you don’t have you can take a cue from the [sample](https://github.com/ngwhitehat/Bugs-and-Vulns-Reporting/blob/main/sample-vdp.md) or the one on our [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6958439433029193728/). Check for a proposed standard which allows websites to define security policies [securitytxt[.]org](https://securitytxt.org/) 
