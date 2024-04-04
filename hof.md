@@ -2,6 +2,10 @@
 # Security Researcher Hall of Fame
 We maintain a Security Researcher Hall of Fame to thank individuals who have discovered medium or high vulnerabilities and worked with us to resolve them.
 
+# ``2024 ``
+
+### ✅ TAdekeye  ✅ Wallehazz ✅Lateef Hamzah
+
 # ``2023 ``
 
 ### ✅ Coy Emerald  ✅ Kure Abdullahi ✅ Ibrahim F. ✅Lateef Hamzah ✅Jamiu Olarewaju ✅mrgaphy
